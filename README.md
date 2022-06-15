@@ -1,0 +1,1 @@
+# piwigo_phpBB_auth
